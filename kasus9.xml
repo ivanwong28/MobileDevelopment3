@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview1"
+        android:text="Belajar Text View"
+        android:textColor="#000"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview2"
+        android:text="Besari sedikit"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:padding="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview3"
+        android:text="Ini Bold"
+        android:textColor="#000"
+        android:textSize="32sp"
+        android:padding="20dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview4"
+        android:text="Berubah ki warna na"
+        android:textColor="#f44336"
+        android:textSize="24sp"
+        android:padding="20dp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview5"
+        android:text="Lebar Banget"
+        android:textColor="#000"
+        android:textSize="24sp"
+        android:padding="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textview6"
+        android:text="Belajar Text View"
+        android:textColor="#000"
+        android:textSize="24sp"
+        android:padding="20dp"/>
+
+</LinearLayout>
